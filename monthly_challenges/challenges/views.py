@@ -16,7 +16,7 @@ monthly_challenges = {
     "september": "See a maverick game",
     "october": "Build soccer website",
     "november": "Eat no meat",
-    "december": "Walk for at least 20 min",
+    "december": None,
 }
 # Create your views here.
 
